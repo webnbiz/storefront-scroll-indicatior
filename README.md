@@ -1,2 +1,3 @@
 # storefront-scroll-indicatior
-Scroll indicator css on top of website (made with storefront WordPress theme)
+
+Scroll indicator css on top of website(with storefront WordPress themeinstalled).
