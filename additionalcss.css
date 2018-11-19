@@ -1,0 +1,16 @@
+/* Add to: Wordpress dashboard -> Customize -> additional css */
+
+.pbar {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  background-color:#f1f1f1;
+}
+
+
+.progress-bar {
+  height: 8px;
+  background:#ff0000;
+  width: 0%;
+}
